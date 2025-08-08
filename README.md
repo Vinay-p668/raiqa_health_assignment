@@ -11,6 +11,14 @@ This is my submission for the RAIQA Health Assignment. It's a simple React app w
 - **Highlighting**: The highest number is green, the lowest is red, and if they're the same, it's yellow.
 - **Styling**: Used custom CSS with a classic look .
 
+## How does it looks.
+- **index page**: ![index page](https://github.com/Vinay-p668/raiqa_health_assignment/blob/main/images/index.png)
+
+- **Adding number list**: ![list](https://github.com/Vinay-p668/raiqa_health_assignment/blob/main/images/Ascending.png)
+
+- **Descending order**: ![Descending order](https://github.com/Vinay-p668/raiqa_health_assignment/blob/main/images/Descending.png)
+
+
 ## How to Run the Project
 I tested this on Windows, and it should work on other systems too. Follow these steps to run it locally:
 
@@ -27,4 +35,3 @@ I tested this on Windows, and it should work on other systems too. Follow these 
 3. ```bash
    npm start
 
-   
